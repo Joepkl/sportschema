@@ -7,6 +7,43 @@ Larissa is blind en maakt vooral gebruik van haar screenreader. Haar sportschema
 
 # Testen + resultaten
 
+### Test 1
+
+De eerste test was vooral een kennismaking met Larissa. Ze heeft veel verteld over hoe ze leeft, en wat ze wel en niet belangrijk vindt. Hieruit zijn een aantal belangrijke punten gekomen om mee te nemen in de volgende versie van mijn ontwerp.
+
+Aandachtspunten:
+* Larissa kan nog wel een paar dingen zien. Als je een hoog contrast en grote vormen gebruikt kan ze het zien als er wat op het scherm verandert.
+* Het helpt dus als er veel witruimte zit tussen elementen.
+* Een donkere achtergrond met lichte letters geeft het meeste rust.
+* Ze traint meestal 6 dagen in de week, en soms 2x per dag.
+* Krachttraining, baantraining en zwemmen.
+* Sans-serif font is het beste leesbaar.
+* Een detailpagina met meer info over een bepaalde dag is fijn.
+* Alleen duidelijke info over trainingen geven, en geen onnodig lang, gezellig verhaal er van maken.
+* Oranje is haar lievelingskleur.
+* Het is duidelijker om de week op te splitsen in een ul met 7 items. Als de screenreader voorleest dat er een lijst van 31 items is kan dat een beetje intimiderend overkomen. 
+
+
+foto versie 1
+
+
+### Test 2 
+
+Aandachtspunten:
+* Het is handig om de dag erbij te zetten, en niet alleen 7 mei bijvoorbeeld.
+* Een zoekbalk om te zoeken naar een dag zou handig zijn, hier maakt Larissa bij veel websites ook gebruik van.
+* Een terug button toevoegen bij elke pagina.
+* De mogelijkheid om in te vullen wat je hebt gedaan op een dag. Dit is erg handig voor Larissa omdat ze zich vaak niet precies aan het trainingsschema houdt. Hiermee kan ze dan achteraf wel precies inzien wat ze heeft gedaan.
+* Een focus state wanneer een item geselecteerd wordt is handig, dan kan ze wel ongeveer zien waar op het scherm iets gebeurd, of verspringt. 
+
+foto versie 2
+
 # Design Principles
 
 # User needs
+
+Maak verschillende ontwerpen, versies en varianten van je opdracht. Experimenteer met verschillende vormen van interactie en vormgeving. Wat werkt goed? Wat werkt niet goed?
+Beschrijf je test-persoon met een User Scenario.
+Test je ideeen en ontwerp 3 keer met de test-persoon. Verbeter je ontwerp op basis van de feedback die je hebt gekregen uit de tests. Documenteer de testen goed.
+Leg de exclusive design principles uit en beschrijf hoe je die hebt toegepast.
+Zorg dat je voor de beoordeling in je Readme (of wiki) een conclusie schrijft waar je in gaat op de leerdoelen en criteria en hoe je dit hebt gehaald. Dit is je bewijsvoering voor het vak.
