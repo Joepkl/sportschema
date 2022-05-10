@@ -37,6 +37,7 @@ Aanpassingen na test 1:
 * Focus state wanneer iets geselecteerd is door de screenreader.
 * Donkere achtergrond met lichte tekst.
 * JS toegevoegd wanneer er niks is ingevuld bij een dag, komt er automatisch "Geen training" te staan.
+* Startscherm met mogelijkheid om een maand te selecteren.
 * De maand opgesplitst in meerdere ul van 7 dagen, voor duidelijkheid met een screenreader.
 
 <img width="1440" alt="Schermafbeelding 2022-05-10 om 19 10 53" src="https://user-images.githubusercontent.com/74242736/167684608-20c92604-441d-4301-8e56-4245850f190a.png">
