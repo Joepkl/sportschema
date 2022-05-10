@@ -42,7 +42,8 @@ Aanpassingen na test 1:
 
 <img width="1440" alt="Schermafbeelding 2022-05-10 om 19 10 53" src="https://user-images.githubusercontent.com/74242736/167684608-20c92604-441d-4301-8e56-4245850f190a.png">
 
-<img width="1439" alt="Schermafbeelding 2022-05-10 om 19 15 31" src="https://user-images.githubusercontent.com/74242736/167685325-21e9dd62-db3e-4027-a0bd-6381df763205.png">
+<img width="1424" alt="Schermafbeelding 2022-05-10 om 19 16 33" src="https://user-images.githubusercontent.com/74242736/167685499-bf8f9a85-1533-4784-a9d2-5e22dd587e48.png">
+
 
 
 Aandachtspunten test 2:
