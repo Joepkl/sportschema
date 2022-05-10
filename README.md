@@ -40,7 +40,7 @@ foto versie 2
 
 # Design Principles
 
-# User needs
+# Aangepast user scenario a.d.h.v. testen
 
 Maak verschillende ontwerpen, versies en varianten van je opdracht. Experimenteer met verschillende vormen van interactie en vormgeving. Wat werkt goed? Wat werkt niet goed?
 Beschrijf je test-persoon met een User Scenario.
