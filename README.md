@@ -8,9 +8,13 @@ Larissa is blind en maakt vooral gebruik van haar screenreader. Haar sportschema
 
 # Testen + resultaten
 
-### Test 1
+## Test 1
 
 De eerste test was vooral een kennismaking met Larissa. Ze heeft veel verteld over hoe ze leeft, en wat ze wel en niet belangrijk vindt. Hieruit zijn een aantal belangrijke punten gekomen om mee te nemen in de volgende versie van mijn ontwerp.
+
+### Versie 1 ontwerp
+
+<img width="1429" alt="Schermafbeelding 2022-05-10 om 18 22 09" src="https://user-images.githubusercontent.com/74242736/167676290-eef9bb4b-9646-43a4-ab35-9b7842227aa3.png">
 
 Aandachtspunten:
 * Larissa kan nog wel een paar dingen zien. Als je een hoog contrast en grote vormen gebruikt kan ze het zien als er wat op het scherm verandert.
@@ -24,11 +28,7 @@ Aandachtspunten:
 * Oranje is haar lievelingskleur.
 * Het is duidelijker om de week op te splitsen in een ul met 7 items. Als de screenreader voorleest dat er een lijst van 31 items is kan dat een beetje intimiderend overkomen. 
 
-### Versie 1 ontwerp
-
-<img width="1429" alt="Schermafbeelding 2022-05-10 om 18 22 09" src="https://user-images.githubusercontent.com/74242736/167676290-eef9bb4b-9646-43a4-ab35-9b7842227aa3.png">
-
-### Test 2 
+## Test 2 
 
 Aandachtspunten:
 * Het is handig om de dag erbij te zetten, en niet alleen 7 mei bijvoorbeeld.
