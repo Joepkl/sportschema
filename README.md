@@ -5,6 +5,7 @@ Human Centered Design is een  methode voor het ontwerpen van gebruiksvriendelijk
 Larissa is blind en maakt vooral gebruik van haar screenreader. Haar sportschema is vooral vanuit een visueel oogpunt ontworpen, en dus niet ideaal in gebruik. Voor dit project ga ga ik een trainingschema voor Larissa ontwerpen die toegankelijk is, en goed te gebruiken doormiddel van een screenreader.
 
 
+
 # Testen + resultaten
 
 ### Test 1
@@ -23,9 +24,9 @@ Aandachtspunten:
 * Oranje is haar lievelingskleur.
 * Het is duidelijker om de week op te splitsen in een ul met 7 items. Als de screenreader voorleest dat er een lijst van 31 items is kan dat een beetje intimiderend overkomen. 
 
+### Versie 1 ontwerp
 
-foto versie 1
-
+<img width="1429" alt="Schermafbeelding 2022-05-10 om 18 22 09" src="https://user-images.githubusercontent.com/74242736/167676290-eef9bb4b-9646-43a4-ab35-9b7842227aa3.png">
 
 ### Test 2 
 
@@ -36,7 +37,10 @@ Aandachtspunten:
 * De mogelijkheid om in te vullen wat je hebt gedaan op een dag. Dit is erg handig voor Larissa omdat ze zich vaak niet precies aan het trainingsschema houdt. Hiermee kan ze dan achteraf wel precies inzien wat ze heeft gedaan.
 * Een focus state wanneer een item geselecteerd wordt is handig, dan kan ze wel ongeveer zien waar op het scherm iets gebeurd, of verspringt. 
 
-foto versie 2
+### Versie 2 ontwerp
+
+
+
 
 # Design Principles
 
