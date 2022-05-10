@@ -16,7 +16,7 @@ De eerste test was vooral een kennismaking met Larissa. Ze heeft veel verteld ov
 
 <img width="1429" alt="Schermafbeelding 2022-05-10 om 18 22 09" src="https://user-images.githubusercontent.com/74242736/167676290-eef9bb4b-9646-43a4-ab35-9b7842227aa3.png">
 
-Aandachtspunten:
+Aandachtspunten test 1:
 * Larissa kan nog wel een paar dingen zien. Als je een hoog contrast en grote vormen gebruikt kan ze het zien als er wat op het scherm verandert.
 * Het helpt dus als er veel witruimte zit tussen elementen.
 * Een donkere achtergrond met lichte letters geeft het meeste rust.
@@ -30,16 +30,36 @@ Aandachtspunten:
 
 ## Test 2 
 
-Aandachtspunten:
+### Versie 2 ontwerp
+
+Aanpassingen na test 1:
+* Meer witruimte tussen elementen.
+* Focus state wanneer iets geselecteerd is door de screenreader.
+* Donkere achtergrond met lichte tekst.
+* JS toegevoegd wanneer er niks is ingevuld bij een dag, komt er automatisch "Geen training" te staan.
+* De maand opgesplitst in meerdere ul van 7 dagen, voor duidelijkheid met een screenreader.
+
+<img width="1429" alt="Schermafbeelding 2022-05-10 om 18 31 13" src="https://user-images.githubusercontent.com/74242736/167677967-2946e8b1-3a64-4f09-98dc-d4dd78c34d25.png">
+
+Aandachtspunten test 2:
 * Het is handig om de dag erbij te zetten, en niet alleen 7 mei bijvoorbeeld.
 * Een zoekbalk om te zoeken naar een dag zou handig zijn, hier maakt Larissa bij veel websites ook gebruik van.
 * Een terug button toevoegen bij elke pagina.
 * De mogelijkheid om in te vullen wat je hebt gedaan op een dag. Dit is erg handig voor Larissa omdat ze zich vaak niet precies aan het trainingsschema houdt. Hiermee kan ze dan achteraf wel precies inzien wat ze heeft gedaan.
 * Een focus state wanneer een item geselecteerd wordt is handig, dan kan ze wel ongeveer zien waar op het scherm iets gebeurd, of verspringt. 
 
-### Versie 2 ontwerp
 
-<img width="1429" alt="Schermafbeelding 2022-05-10 om 18 31 13" src="https://user-images.githubusercontent.com/74242736/167677967-2946e8b1-3a64-4f09-98dc-d4dd78c34d25.png">
+## Test 3
+
+### Versie 3 ontwerp
+
+Aanpassingen na test 2:
+* blabla
+
+img
+
+Aandachtspunten test 3:
+
 
 
 
