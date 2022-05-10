@@ -39,6 +39,8 @@ Aandachtspunten:
 
 ### Versie 2 ontwerp
 
+<img width="1429" alt="Schermafbeelding 2022-05-10 om 18 31 13" src="https://user-images.githubusercontent.com/74242736/167677967-2946e8b1-3a64-4f09-98dc-d4dd78c34d25.png">
+
 
 
 
