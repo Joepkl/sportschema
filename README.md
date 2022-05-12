@@ -63,12 +63,17 @@ Aandachtspunten test 2:
 ### Versie 3 ontwerp
 
 Aanpassingen na test 2:
-* blabla
+* Een werkende zoekbalk toegevoegd, waarmee het mogelijk is om te zoeken naar een datum.
+* Ipv alleen de datum, leest de screenreader nu voor: "Maandag 1 mei".
+* Detail pagina toegevoegd voor een dag. Hierbij kan Larisssa ook invullen wat ze daadwerkelijk heeft gedaan. 
+* Terug buttons toegevoegd zodat je makkelijk met tab kan navigeren naar de button.
 
 img
 
 Aandachtspunten test 3:
-
+* Er miste nog een tabindex bij de trainingspunten op de detailpagina. Hierdoor las de screenreader niks voor met tab.
+* Wanneer de zoekbalk geselecteerd wordt, leest de screenreader "kandidatenlijst" voor en dan de andere info. Dit zorgde voor verwarring bij Larissa.
+* Voor de rest is de site heel fijn in gebruik, en was alles duidelijk voor Larissa.
 
 
 
@@ -93,6 +98,11 @@ Uit de interviews met Larissa is wel duidelijk geworden dat ze een sterke persoo
 ## 4. Add nonsense
 
 Ik heb niet echte onzin toegevoegd in dit ontwerp, omdat Larissa vaak aangaf dat ze het graag zo kort en duidelijk mogelijk wilt hebben. Als ik extra onnodige content had toegevoegd was het minder overzichtelijk en chaotischer geworden. Dus ik heb juist rekening gehouden met de screenreader en zo min mogelijk onnodige content toegevoegd.
+
+
+
+# Conclusie
+
 
 
 
