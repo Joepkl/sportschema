@@ -88,7 +88,7 @@ Uit de interviews met Larissa is wel duidelijk geworden dat ze een sterke persoo
 * Standaard regels voor tekst en button grootte genegeerd. (Zodat Larissa nog een beetje kan zien als er iets op het scherm verspringt. Ze heeft aangegeven een visuele denker te zijn. Het helpt haar om een beeld van de webpagina te vormen als ze een selector ziet verspringen met een focus state.)
 * Niet gefocust op vormgeving. (Alleen op een paar kleine punten van Larissa, zoals donkere achtergrond met lichte tekst.)
 * Standaard HTML indeling zoals nav genegeerd, zodat de screenreader niet onnodig veel informatie opleest.
-* Tab-index op elementen zoals H1 gezet, zodat de screenreader deze wel voorleest.
+* Tab-index op elementen zoals H1 en List Items gezet, zodat de screenreader deze wel voorleest.
 
 ## 4. Add nonsense
 
