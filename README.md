@@ -68,13 +68,18 @@ Aanpassingen na test 2:
 * Detail pagina toegevoegd voor een dag. Hierbij kan Larisssa ook invullen wat ze daadwerkelijk heeft gedaan. 
 * Terug buttons toegevoegd zodat je makkelijk met tab kan navigeren naar de button.
 
-img
+<img width="1440" alt="Schermafbeelding 2022-05-12 om 20 54 18" src="https://user-images.githubusercontent.com/74242736/168148016-b35451c4-a034-4c16-8590-223cc88b3cb5.png">
+
+<img width="1440" alt="Schermafbeelding 2022-05-12 om 20 54 44" src="https://user-images.githubusercontent.com/74242736/168148068-772a1727-27aa-4c7d-888d-f48438162b88.png">
+
+<img width="1440" alt="Schermafbeelding 2022-05-12 om 20 55 16" src="https://user-images.githubusercontent.com/74242736/168148155-260ab2c0-7582-4648-baa3-d76488c9ebde.png">
 
 Aandachtspunten test 3:
 * Er miste nog een tabindex bij de trainingspunten op de detailpagina. Hierdoor las de screenreader niks voor met tab.
 * Wanneer de zoekbalk geselecteerd wordt, leest de screenreader "kandidatenlijst" voor en dan de andere info. Dit zorgde voor verwarring bij Larissa.
 * Voor de rest is de site heel fijn in gebruik, en was alles duidelijk voor Larissa.
 
+Ik heb na de laatste test deze punten nog aangepast in mijn ontwerp.
 
 
 
