@@ -2,7 +2,10 @@
 
 Human Centered Design is een  methode voor het ontwerpen van gebruiksvriendelijke interactieve toepassingen. In deze opdracht ontwerpen wij voor een specifieke gebruiker en niet voor een brede doelgroep. Daarom is het erg belangrijk om rekening te houden met de gebruiker, en in te spelen op behoeftes.
 
+## Probleem
+
 Larissa is blind en maakt vooral gebruik van haar screenreader. Haar sportschema is vooral vanuit een visueel oogpunt ontworpen, en dus niet ideaal in gebruik. Voor dit project ga ga ik een trainingschema voor Larissa ontwerpen die toegankelijk is, en goed te gebruiken doormiddel van een screenreader.
+Ik ga me in dit project richten op een makkelijk en duidelijk te gebruiken schema. Geen ingewikkelde code en onnodige toevoegingen, waardoor het een zo overzichtelijk mogelijk schema wordt. 
 
 
 
@@ -52,6 +55,7 @@ Aandachtspunten test 2:
 * Een terug button toevoegen bij elke pagina.
 * De mogelijkheid om in te vullen wat je hebt gedaan op een dag. Dit is erg handig voor Larissa omdat ze zich vaak niet precies aan het trainingsschema houdt. Hiermee kan ze dan achteraf wel precies inzien wat ze heeft gedaan.
 * Een focus state wanneer een item geselecteerd wordt is handig, dan kan ze wel ongeveer zien waar op het scherm iets gebeurd, of verspringt. 
+* Pop-ups zijn een drama met een screenreader, dus probeer die zoveel mogelijk te vermijden.
 
 
 ## Test 3
@@ -70,6 +74,28 @@ Aandachtspunten test 3:
 
 
 # Design Principles
+
+## 1. Study situation
+
+Larissa is natuurlijk een speciale gebruiker. Vandaar dat het heel belangrijk is om precies te weten hoe ze nu navigeert en omgaat met websites. Hier hebben wij ons in de eerste interviews ook vooral op gefocust. Als je eenmaal een beter beeld hebt van hoe Larissa het aanpakt, is het ook makkelijker om een effectieve oplossing te bedenken. We hebben in de interviews gevraagd naar wat ze fijn vindt in gebruik, en wat juist minounten zijn van websites. 
+
+## 2. Prioritise identity
+
+Uit de interviews met Larissa is wel duidelijk geworden dat ze een sterke persoonlijkheid heeft. Ze heeft aangegeven eigenwijs te zijn en vaak op eigen houtje dingen te doen. (Zoals een gouden medaille winnnen op de paralympische spelen!) Ook is ze redelijk chaotischer en houdt over het algemeen niet heel erg van strakke schema's. Deze punten heb ik bij het ontwerpen in het achterhoofd gehouden, zodat het eindproduct goed bij Larissa past. Het is wel fijn om het gemaakte schema van de coach in te kunnen zien. Echter houdt Larissa zich regelmatig niet aan dat schema. Vandaar dat ik een optie heb gemaakt om op een training aanmerkingen te maken, en in te vullen wat je daadwerkelijk heb gedaan op de training. Dit zodat er achteraf wel duidelijk in te zien is wat er precies is gedaan in een maand. Hierdoor behoud je overzicht, maar is er wel flexibiliteit voor Larissa om niet alles precies volgens het boekje te doen. Dit leek me een goede tussenweg, waarin het niet te chaotisch is, maar wel flexibel. 
+
+## 3. Ignore Conventions
+
+* Standaard regels voor tekst en button grootte genegeerd. (Zodat Larissa nog een beetje kan zien als er iets op het scherm verspringt. Ze heeft aangegeven een visuele denker te zijn. Het helpt haar om een beeld van de webpagina te vormen als ze een selector ziet verspringen met een focus state.)
+* Niet gefocust op vormgeving. (Alleen op een paar kleine punten van Larissa, zoals donkere achtergrond met lichte tekst.)
+* Standaard HTML indeling zoals nav genegeerd, zodat de screenreader niet onnodig veel informatie opleest.
+* Tab-index op elementen zoals H1 gezet, zodat de screenreader deze wel voorleest.
+
+## 4. Add nonsense
+
+Ik heb niet echte onzin toegevoegd in dit ontwerp, omdat Larissa vaak aangaf dat ze het graag zo kort en duidelijk mogelijk wilt hebben. Als ik extra onnodige content had toegevoegd was het minder overzichtelijk en chaotischer geworden. Dus ik heb juist rekening gehouden met de screenreader en zo min mogelijk onnodige content toegevoegd.
+
+
+
 
 # Aangepast user scenario a.d.h.v. testen
 
