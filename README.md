@@ -30,6 +30,7 @@ Aandachtspunten test 1:
 * Alleen duidelijke info over trainingen geven, en geen onnodig lang, gezellig verhaal er van maken.
 * Oranje is haar lievelingskleur.
 * Het is duidelijker om de week op te splitsen in een ul met 7 items. Als de screenreader voorleest dat er een lijst van 31 items is kan dat een beetje intimiderend overkomen. 
+* Met het lang="" element in html kan je de taal van de screenreader aanpassen.
 
 ## Test 2 
 
@@ -42,6 +43,7 @@ Aanpassingen na test 1:
 * JS toegevoegd wanneer er niks is ingevuld bij een dag, komt er automatisch "Geen training" te staan.
 * Startscherm met mogelijkheid om een maand te selecteren.
 * De maand opgesplitst in meerdere ul van 7 dagen, voor duidelijkheid met een screenreader.
+* De taal van de screenreader aangepast van Engels naar Nederlands.
 
 <img width="1440" alt="Schermafbeelding 2022-05-10 om 19 10 53" src="https://user-images.githubusercontent.com/74242736/167684608-20c92604-441d-4301-8e56-4245850f190a.png">
 
@@ -67,6 +69,7 @@ Aanpassingen na test 2:
 * Ipv alleen de datum, leest de screenreader nu voor: "Maandag 1 mei".
 * Detail pagina toegevoegd voor een dag. Hierbij kan Larisssa ook invullen wat ze daadwerkelijk heeft gedaan. 
 * Terug buttons toegevoegd zodat je makkelijk met tab kan navigeren naar de button.
+* Volgende, en vorige maand buttons toegevoegd.
 
 <img width="1440" alt="Schermafbeelding 2022-05-12 om 20 54 18" src="https://user-images.githubusercontent.com/74242736/168148016-b35451c4-a034-4c16-8590-223cc88b3cb5.png">
 
@@ -81,6 +84,11 @@ Aandachtspunten test 3:
 
 Ik heb na de laatste test deze punten nog aangepast in mijn ontwerp.
 
+
+
+# Aangepast user scenario a.d.h.v. testen
+
+Larissa wil makkelijk met tab en haar screenreader kunnen navigeren door websites heen. Ze gebruikt het liefst tab omdat dit makkelijker is dan de screenreader commando's zoals CNTRL + OPTION + SHIFT. Het werkt voor haar een stuk makkelijker om tab te gebruiken. Ze wilt duidelijk kunnen inzien wat haar sportschema is, zonder onnodige toevoegingen die de site verwarrender maken.
 
 
 # Design Principles
@@ -108,14 +116,4 @@ Ik heb niet echte onzin toegevoegd in dit ontwerp, omdat Larissa vaak aangaf dat
 
 # Conclusie
 
-
-
-
-
-# Aangepast user scenario a.d.h.v. testen
-
-Maak verschillende ontwerpen, versies en varianten van je opdracht. Experimenteer met verschillende vormen van interactie en vormgeving. Wat werkt goed? Wat werkt niet goed?
-Beschrijf je test-persoon met een User Scenario.
-Test je ideeen en ontwerp 3 keer met de test-persoon. Verbeter je ontwerp op basis van de feedback die je hebt gekregen uit de tests. Documenteer de testen goed.
-Leg de exclusive design principles uit en beschrijf hoe je die hebt toegepast.
-Zorg dat je voor de beoordeling in je Readme (of wiki) een conclusie schrijft waar je in gaat op de leerdoelen en criteria en hoe je dit hebt gehaald. Dit is je bewijsvoering voor het vak.
+Larissa was tevreden met het uiteindelijke ontwerp dat ik heb gemaakt. Ze had afgezien van de punten die ik heb aangepast na de test geen aanmerkingen. De hele site is goed te gebruiken met tab, en de screenreader leest alle content duidelijk voor. Uit eerdere testen is duidelijk geworden hoe Larissa gebruik maakt en navigeert door sites. Doordat ik hier in mijn ontwerp rekening mee had gehouden hoefde ik verder eigenlijk weinig uit te leggen tijdens het testen. Als ze gewoon zelf aan de slag ging kwam ze bij het punt uit waar ze naar zocht. 
